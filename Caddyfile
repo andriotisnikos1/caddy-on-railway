@@ -2,3 +2,7 @@
 
 root * /srv
 file_server
+
+worldapi.dev {
+    reverse_proxy https://world-api.io
+}
