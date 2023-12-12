@@ -1,7 +1,4 @@
 :{$PORT}
 
-@dev {
-    host worldapi.dev
-}
 
-reverse_proxy @dev https://world-api.io
+reverse_proxy * https://world-api.io
