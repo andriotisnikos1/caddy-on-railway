@@ -1,8 +1,5 @@
 :{$PORT}
 
-root * /srv
-file_server
-
 @dev {
     host worldapi.dev
 }
