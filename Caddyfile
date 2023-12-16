@@ -1,4 +1,4 @@
 :{$PORT}
 
 
-reverse_proxy * https://hello.worldapi.dev
+reverse_proxy * https://dash-production-8709.up.railway.app
