@@ -1,4 +1,4 @@
 :{$PORT}
 
 
-reverse_proxy * https://world-api.io
+reverse_proxy * https://hello.worldapi.dev
